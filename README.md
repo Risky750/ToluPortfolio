@@ -5,7 +5,7 @@
 - **Email:** favouraderiye2004@gmail.com
 
 #Description
-I am Toluwani, A front-end developer, who is passionate about creating improved visuals for websites and your online needs.
+- I am Toluwani, A front-end developer, who is passionate about creating improved visuals for websites and your online needs.
 
 #Projects
 - [Currency converter](https://github.com/Risky750/currencyconverter)
