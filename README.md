@@ -1,5 +1,5 @@
 # ToluPortfolio
-##Personal Information
+#Personal Information
 - **Name:** Aderiye Toluwani Favour
 - **D.O.B:** 21st May 2004
 - **Email:** favouraderiye2004@gmail.com
