@@ -1,5 +1,5 @@
 # Front-end Developer Portfolio 
- # **Aderiye Toluwani Favour**
+ ## **Aderiye Toluwani Favour**
 
 ## Description
 - A front-end developer, who is passionate about creating improved visuals for websites and your online needs.
