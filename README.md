@@ -1,5 +1,6 @@
 # Front-end Developer Portfolio 
- ## **Aderiye Toluwani Favour**
+ ## Name
+**Aderiye Toluwani Favour**
 
 ## Description
 - A front-end developer, who is passionate about creating improved visuals for websites and your online needs.
@@ -18,5 +19,5 @@
 - Github
 
 ## Contact
-- **Email:**favouraderiye2004@gmail.com
+- **Email:** favouraderiye2004@gmail.com
 
