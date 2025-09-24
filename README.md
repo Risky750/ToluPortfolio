@@ -10,7 +10,7 @@
 - [Website](https://github.com/Risky750/CraftmyWeb) 
 - [Api](https://github.com/Risky750/weather-forcast)
 
-# Tools
+# Tools / Stack
 - Next Js
 - Tailwind Css
 - Postman
