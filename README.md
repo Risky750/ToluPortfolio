@@ -1,19 +1,22 @@
-# Tolu Portfolio 
-- **Name:** Aderiye Toluwani Favour
-- **Email:** favouraderiye2004@gmail.com
+# Front-end Developer Portfolio 
+ **Name:** Aderiye Toluwani Favour 
 
-# Description
+## Description
 - I am Toluwani, A front-end developer, who is passionate about creating improved visuals for websites and your online needs.
 
-# Projects
-- [Currency converter](https://github.com/Risky750/currencyconverter)
-- [Website](https://github.com/Risky750/CraftmyWeb) 
-- [Api](https://github.com/Risky750/weather-forcast)
 
-# Tools / Stack
+## Projects
+- [Currency converter](https://github.com/Risky750/currencyconverter) - creating a service to convert Currency from one to another
+- [Website](https://github.com/Risky750/CraftmyWeb)-  a service that builds portfolios and websites
+- [Api](https://github.com/Risky750/weather-forcast)-a service that let users know the state of climates in a region
+
+## Tools / Stack
 - Next Js
 - Tailwind Css
 - Postman
 - vs code
 - Github
+
+## Contact
+- **Email:**favouraderiye2004@gmail.com
 
